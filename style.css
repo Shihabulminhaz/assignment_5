@@ -1,0 +1,13 @@
+.meal{
+    background: #F8F7F5;
+    border-radius: 10px;;
+}
+
+#ingredients{
+    display: none;
+}
+
+#message-notFound{
+    display: none;   
+}
+
